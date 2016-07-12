@@ -1,0 +1,30 @@
+body {
+	font-family: 'Ubuntu', Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+	text-align: center;
+}
+
+.sandContainer {
+	text-align: center;
+}
+
+select {
+	margin: 15px 30px;
+	width: 150px;
+}
+
+.sandBox {
+	border: 2px dotted red;
+	width: 300px;
+	height: 300px;
+	margin: 25px auto 0;
+}
+
+#finalSandwich {
+	text-align: center;
+	font-size: 4em;
+	margin-top: 70px;
+}
